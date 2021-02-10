@@ -35,3 +35,8 @@ p {
 	width:600px;
 	background:pink;
 }
+
+.newwrapper .callout {
+	background:black;
+	width:90%;
+}
